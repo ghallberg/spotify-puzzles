@@ -1,4 +1,1 @@
-spotify-puzzles
-===============
-
-Solutions to Spotify's puzzles.
+Solutions to Spotify's puzzles by Gustaf Hallberg
